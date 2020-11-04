@@ -116,7 +116,7 @@ JSON массив элементами которого являются объ�
         "image": "//cdn.shopify.com/s/files/1/0987/2678/files/Event-Calendar_650x650.jpg?v=1587570620",
         "link": "/Calendar",
         "category": "",
-        "title": "Events Calendar",ф
+        "title": "Events Calendar",
         "snippet": "Check our super handy booking system",
         "timerDate": "",
         "timerText": ""
